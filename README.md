@@ -1,3 +1,3 @@
-#Gerência de Configuração - Eng de Software
+# Gerência de Configuração - Engenharia de Software
 
-Laboratório - 02
+## Laboratório - Aula 02
